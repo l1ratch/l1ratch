@@ -11,23 +11,33 @@
 - 🔐 Обход различных ограничений.
 - 💻 Создание и поддержка веб-сайтов.
 
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/l1ratch)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/l1ratch)
+[![Website](https://img.shields.io/badge/-Website-0A73FF?style=flat&logo=google-chrome&logoColor=white)](https://l1ratch.ru)
+
 ---
 
 ## 🚀 Мои проекты
 
-| Проект        | Описание                                                                 |
-|---------------|--------------------------------------------------------------------------|
-| **Minecraft Plugins** | Плагины для кастомизации игровых серверов Minecraft.                   |
-| **Router Tools**      | Инструменты для настройки и оптимизации работы роутеров.             |
-| **Bots & Scripts**    | Автоматизация задач, разработка полезных скриптов и ботов.           |
-| **Web Projects**      | Веб-сайты, созданные с использованием современных технологий.        |
+<details>
+  <summary><b>📂 Minecraft Plugins</b></summary>
+  <p>Плагины для кастомизации игровых серверов Minecraft.</p>
+</details>
 
----
+<details>
+  <summary><b>📂 Router Tools</b></summary>
+  <p>Инструменты для настройки и оптимизации работы роутеров.</p>
+</details>
 
-## 📫 Связаться со мной
+<details>
+  <summary><b>📂 Bots & Scripts</b></summary>
+  <p>Автоматизация задач, разработка полезных скриптов и ботов.</p>
+</details>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/l1ratch)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/l1ratch)
+<details>
+  <summary><b>📂 Web Projects</b></summary>
+  <p>Веб-сайты, созданные с использованием современных технологий.</p>
+</details>
 
 ---
 
