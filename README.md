@@ -1,9 +1,5 @@
 <h1 align="center">👋 Привет! Я l1ratch </h1>
 
-<p align="center">
-  <img width="600" src="https://github.com/l1ratch/l1ratch/assets/github-snake.svg" alt="GitHub Snake Animation"/>
-</p>
-
 ---
 
 ## 🧑‍💻 Обо мне
