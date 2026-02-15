@@ -25,7 +25,3 @@ Backend-разработчик и системный билдер.
 - 📧 Email — your@email.com  
 - 💬 Telegram — @your_tag  
 - 🌍 Website — https://l1ratch.ru  
-
----
-
-> while(alive) { build(); improve(); deploy(); }
