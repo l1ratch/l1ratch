@@ -1,14 +1,30 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=35&pause=100000&color=00F7FF&center=true&vCenter=true&width=1000&lines=%24+boot+l1ratch;%24+loading+profile...;%24+name:+l1ratch;%24+role:+backend+developer+%2F+system+builder;%24+focus:+web+%2B+servers+%2B+architecture;%24+stack:+js+ts+node+python+java+docker+postgres+linux;%24+site:+https://l1ratch.ru;%24+telegram:+@your_tag;%24+email:+your@email.com;%24+status:+online."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=45&pause=2000&color=00F7FF&center=true&vCenter=true&width=800&lines=%3E+initializing+l1ratch...;%3E+profile+loaded.;%3E+welcome."/>
 </p>
 
 ---
 
-## > stats
+## 👤 About
 
-![stats](https://github-readme-stats.vercel.app/api?username=l1ratch&show_icons=true&theme=transparent&title_color=00f7ff&icon_color=ff00c8&text_color=ffffff&bg_color=000000&hide_border=true)
+Backend-разработчик и системный билдер.  
+Создаю веб-проекты, серверные архитектуры и автоматизирую процессы.  
 
-![streak](https://streak-stats.demolab.com?user=l1ratch&theme=transparent&background=000000&ring=00f7ff&fire=ff00c8&currStreakLabel=00f7ff&hide_border=true)
+Работаю с:
+- JavaScript / TypeScript  
+- Node.js  
+- Python  
+- Java  
+- Docker / PostgreSQL / Linux  
+
+Люблю чистый код, продуманную архитектуру и стабильные системы.
+
+---
+
+## 🌐 Contact
+
+- 📧 Email — your@email.com  
+- 💬 Telegram — @your_tag  
+- 🌍 Website — https://l1ratch.ru  
 
 ---
 
