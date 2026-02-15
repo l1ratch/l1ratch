@@ -32,10 +32,10 @@ developer // system builder // night coder
 
 ---
 
-`while(alive) {`
-`   build();`
-`   improve();`
-`   deploy();`
-`}`
+`while(alive) {`  
+`   build();`  
+`   improve();`  
+`   deploy();`  
+`}`  
 
 > system status: online.
