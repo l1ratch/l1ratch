@@ -20,6 +20,6 @@ Designing web projects, server architectures and clean backend systems.
 
 ## 🌐 Contact
 
-- 📧 Email — your@email.com  
-- 💬 Telegram — @your_tag  
+- 📧 Email — connect@l1ratch.ru  
+- 💬 Telegram — @l1ratch  
 - 🌍 Website — https://l1ratch.ru  
