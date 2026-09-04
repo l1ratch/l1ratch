@@ -2,8 +2,8 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    # Запуск каждый день в полночь
-    - cron: "0 0 * * *"
+    # Runs every Monday at midnight UTC
+    - cron: "0 0 * * 1"
   workflow_dispatch:
   push:
     branches:
@@ -23,12 +23,14 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: l1ratch
+          # Generates both dark and light variants
+          # color_snake sets the snake color to match your cyan/teal accent
           outputs: |
             assets/github-snake.svg?palette=github-dark&color_snake=#00F7FF
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit & Push Snake SVG
+      - name: Commit & Push
         uses: EndBug/add-and-commit@v9
         with:
           message: "chore: refresh contribution snake [skip ci]"

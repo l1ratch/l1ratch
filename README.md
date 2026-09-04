@@ -18,16 +18,16 @@ Designing web projects, server architectures, and clean backend systems.
 
 ### 🌐 Contact & Support Inbox
 
-Если хотите связаться, задать вопрос или обсудить идею:
+Want to reach out, ask a question, or discuss an idea?
 
-* 💬 **Telegram:** [@l1ratch](https://t.me/l1ratch) *(канал автора, связь через личные сообщения каналу)*
-* 📨 **GitHub Issues:** [**Open an Issue**](https://github.com/l1ratch/l1ratch/issues/new/choose) *(открытая приемная прямо на GitHub)*
+* 💬 **Telegram:** [@l1ratch](https://t.me/l1ratch) *(news channel — reach me via channel messages)*
+* 📨 **GitHub Issues:** [**Open an Issue**](https://github.com/l1ratch/l1ratch/issues/new/choose) *(open inbox right here on GitHub)*
 * 📩 **Email:** [connect@l1ratch.ru](mailto:connect@l1ratch.ru)
 * 🌍 **Website:** [l1ratch.ru](https://l1ratch.ru)
 
 > [!NOTE]
-> **Связь через GitHub Issues:** данный репозиторий используется как публичная приемная (AMA / Support). Если у вас вопрос или обращение — просто [создайте тему](https://github.com/l1ratch/l1ratch/issues/new/choose), мне придет уведомление в Telegram, и я отвечу прямо в треде.  
-> *(Для багов и предложений по конкретным проектам — создавайте Issue в соответствующем репозитории).*
+> **GitHub Issues as inbox:** this repository acts as a public support inbox (AMA / contact form). If you have a question or message, just [open a thread](https://github.com/l1ratch/l1ratch/issues/new/choose) — I get a Telegram notification and reply directly in the thread.  
+> *(For bugs or suggestions related to a specific project, please open an issue in that project's repository.)*
 
 ---
 
