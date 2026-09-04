@@ -1,0 +1,31 @@
+name: "💬 Задать вопрос / Обсуждение"
+description: "Задайте технический вопрос, поинтересуйтесь опытом или начните дискуссию."
+title: "[Вопрос]: "
+labels: ["inbox", "question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 👋 Добро пожаловать в открытую приемную!
+        Вы можете задать любой вопрос. Обратите внимание: этот Issue **публичный** и виден всем пользователям.
+  - type: input
+    id: topic
+    attributes:
+      label: Тема вопроса
+      placeholder: "Например: Настройка OpenWrt / Архитектура бэкенда / Spigot API..."
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Суть вопроса / подробности
+      placeholder: "Опишите подробно, что вас интересует..."
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Подтверждение
+      options:
+        - label: "Я понимаю, что этот тред публичный, и не оставляю здесь пароли/ключи/секреты."
+          required: true

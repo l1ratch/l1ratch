@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Написать в Telegram-канал
+    url: https://t.me/l1ratch
+    about: Для быстрой связи напишите в сообщения канала @l1ratch.
+  - name: 📩 Написать на Email
+    url: mailto:connect@l1ratch.ru
+    about: Для приватных и коммерческих предложений.
+  - name: 🐛 Баг или вопрос по конкретному проекту?
+    url: https://github.com/l1ratch?tab=repositories
+    about: Если ваша проблема касается конкретного репозитория (плагина, утилиты и т.д.), пожалуйста, создайте Issue в соответствующем репозитории!

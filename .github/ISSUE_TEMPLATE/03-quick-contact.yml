@@ -1,0 +1,34 @@
+name: "📬 Быстрый контакт / Сообщение"
+description: "Свяжитесь со мной через GitHub, если вам не подходят Telegram и почта."
+title: "[Контакт]: "
+labels: ["inbox", "contact"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 📨 Связь через GitHub
+        Если вам не подходят Telegram-канал (@l1ratch) или email (connect@l1ratch.ru), вы можете оставить сообщение здесь.
+  - type: textarea
+    id: message
+    attributes:
+      label: Ваше сообщение
+      placeholder: "Напишите ваше сообщение здесь..."
+    validations:
+      required: true
+  - type: dropdown
+    id: prefer_reply
+    attributes:
+      label: Где вы хотите получить ответ?
+      options:
+        - "Здесь, в комментариях к этому Issue"
+        - "В Telegram (укажу контакт ниже)"
+        - "По электронной почте (укажу контакт ниже)"
+    validations:
+      required: true
+  - type: input
+    id: external_contact
+    attributes:
+      label: Ваши контактные данные (если выбран ответ вне GitHub)
+      placeholder: "@username в Telegram или your@email.com"
+    validations:
+      required: false

@@ -1,0 +1,31 @@
+name: "💡 Идея / Сотрудничество"
+description: "Предложите идею для совместного проекта, доработки или коллаборации."
+title: "[Сотрудничество]: "
+labels: ["inbox", "collaboration"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 🤝 Предложение о сотрудничестве или идея проекта
+        Расскажите о вашей идее или проекте, над которым хотите поработать вместе.
+  - type: input
+    id: project_title
+    attributes:
+      label: Название проекта или краткая суть идеи
+      placeholder: "Например: Разработка Telegram-бота / Новый сетевой модуль..."
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Описание идеи / предложения
+      placeholder: "В чем заключается идея, какие технологии предполагается использовать и какая ожидается роль?"
+    validations:
+      required: true
+  - type: input
+    id: contact_info
+    attributes:
+      label: Как с вами связаться (опционально)
+      placeholder: "Telegram ник, Email или укажите, что ответ ждать здесь в комментариях"
+    validations:
+      required: false
